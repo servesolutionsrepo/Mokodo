@@ -1,2 +1,2 @@
-# Mokodo
-creating Kind &amp; localstack
+# Mkodo
+Creating Minikube &amp; localstack
